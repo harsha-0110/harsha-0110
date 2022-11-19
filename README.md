@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Harshavardhan
+- 🎓 Pursuing B.Tech in Computer Science Engineering (3rd Year)
 - 👀 I’m interested in Game & Web Developement
 
 <!---
