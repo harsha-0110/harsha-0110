@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harshavardhan
 - 🎓 Pursuing B.Tech in Computer Science Engineering (3rd Year)
-- 👀 I’m interested in Game & Web Developement
+- 👀 I’m interested in Web application Developement
 
 <!---
 harsha-0110/harsha-0110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
