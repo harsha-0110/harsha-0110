@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harshavardhan
-- 🎓 Pursuing B.Tech in Computer Science Engineering (3rd Year)
+- 🎓 Pursuing B.Tech in Computer Science Engineering (4th Year)
 - 👀 I’m interested in Web application Developement
 
 <!---
